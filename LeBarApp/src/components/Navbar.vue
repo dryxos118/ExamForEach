@@ -22,7 +22,7 @@
       <a
         class="bi bi-github icon-link"
         style="font-size: 1.4rem"
-        href="https://icons.getbootstrap.com/icons/github/"
+        href="https://github.com/dryxos118/ExamForEach"
       ></a>
     </div>
   </nav>
